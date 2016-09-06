@@ -1,4 +1,4 @@
-# TransFast
+# TransFest
 Projeto de transporte de passageiros 
 
 ## Equipe 

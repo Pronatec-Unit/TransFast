@@ -9,8 +9,5 @@ Projeto de transporte de passageiros
  
 ## Cronograma 
 Data      /     Atividades
-
-
-
 ---------------/----------------
 06/09  Entrega do Wirefrime (Telas)
